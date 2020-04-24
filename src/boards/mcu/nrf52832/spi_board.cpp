@@ -1,4 +1,4 @@
-#ifdef NRF52
+#ifdef NRF52_SERIES
 // #include "boards/mcu/nrf52832/SPI.h"
 #include "boards/mcu/board.h"
 #include <SPI.h>
